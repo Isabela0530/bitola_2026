@@ -4,9 +4,9 @@
 Aplicativo desenvolvido em Flutter para cálculo da bitola de fios elétricos. O usuário informa a corrente elétrica e a distância da instalação. O sistema calcula a bitola adequada para tensões de 110V e 220V, auxiliando em projetos básicos de instalações elétricas.
 
 ## Prints
-![home](https://github.com/user-attachments/assets/22fa3722-3c90-47d2-a92b-d87bb104bfe8)
-![calcular](https://github.com/user-attachments/assets/5d75be9b-692c-423e-ab8b-8abf0d928f2f)
-![resultado](https://github.com/user-attachments/assets/978e1da9-b9a9-4c7d-b5bb-620d2d888a26)
+![home](https://github.com/user-attachments/assets/30c012a0-4695-45c1-ab4d-568e72069dd1)
+![calcular](https://github.com/user-attachments/assets/83b16196-2996-44a9-9a77-723886dcbb94)
+![resultado](https://github.com/user-attachments/assets/5eaa846c-a818-4ce3-b7f6-3a4a93e2035a)
 
 ## Tecnologias
 - Vs Code;
